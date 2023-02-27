@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.first-section {
+    background-color: aquamarine;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.right {
+    display: flex;
+    flex-direction: row;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    font-size: 25px;
+}
+
+.content-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.content-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+img {
+    
+    margin: 50px;
+}
+
+
+
+
